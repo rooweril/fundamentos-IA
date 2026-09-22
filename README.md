@@ -1,5 +1,5 @@
 # Fundamentos de Inteligencia Artificial
-# FABRIZZIO NARVAEZ FRANCO: ALIAS GAMBOA
+# FABRIZZIO NARVAEZ FRANCO
 Repositorio destinado al desarrollo y entrega de las actividades prácticas de la materia **Fundamentos de Inteligencia Artificial**.
 
 ## 📂 Estructura del repositorio
